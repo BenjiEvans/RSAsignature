@@ -33,7 +33,7 @@ public class Main {
 		
 		int choice = -1;
 		//print menu 
-		System.out.print("1.)Send File\n");
+		System.out.print("1.)Sign File\n");
 		System.out.print("2.)Read Signed File\n");
 		System.out.print("3.)Exit\n");
 		
